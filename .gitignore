@@ -1,25 +1,34 @@
-# CakePHP 3
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-/vendor/*
-/config/app.php
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
-/tmp/cache/models/*
-!/tmp/cache/models/empty
-/tmp/cache/persistent/*
-!/tmp/cache/persistent/empty
-/tmp/cache/views/*
-!/tmp/cache/views/empty
-/tmp/sessions/*
-!/tmp/sessions/empty
-/tmp/tests/*
-!/tmp/tests/empty
+# testing
+/coverage
 
-/logs/*
-!/logs/empty
+# next.js
+/.next/
+/out/
+/dev/
 
-# CakePHP 2
+# production
+/build
 
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env*.local
+
+# ide's
+.idea
+.vscode
