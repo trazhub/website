@@ -23,7 +23,7 @@ const Footer = () => {
                         aria-label="Trazhub's GitHub Profile"
                     >
                         <span className="underline underline-offset-2 hover:no-underline">
-                            <AnimatedBody text={"Garv (Trazhub)"} className={"m-0 p-0"} />
+                            <AnimatedBody text={"Garv (Trazverse)"} className={"m-0 p-0"} />
                         </span>{" "}
                     </Link>
                 </div>

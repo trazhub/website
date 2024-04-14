@@ -40,12 +40,12 @@ const Contact = () => {
                             }
                         />
                         <Link
-                            href="mailto:hello@akshatmehta.com?subject=Lets%20work%20together!&amp;body=Hello%2C%20I%20think%20we%20need%20you%20to%20work%20on%2Fcollaborate%20this%20particular%20product...%20Reach%20out%20as%20soon%20as%20you%20can."
+                            href="mailto:garvverma900@gmail.com?subject=Lets%20work%20together!&amp;body=Hello%2C%20I%20think%20we%20need%20you%20to%20work%20on%2Fcollaborate%20this%20particular%20product...%20Reach%20out%20as%20soon%20as%20you%20can."
                             target="_blank"
                             aria-label="Send me an email"
                             className="mt-1 w-[147px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[147px] md:mt-3 md:w-[170px] lg:mt-4"
                         >
-                            <AnimatedBody text={"Send me an email"} className={""} />
+                            <AnimatedBody text={"Hit me up"} className={""} />
                         </Link>
                     </div>
 
@@ -79,7 +79,7 @@ const Contact = () => {
                             />
                         </Link>
                         <Link
-                            href="https://discord.gg/y6Jk2N9Fxx"
+                            href="https://discord.gg/f95Vwyd4Hs"
                             target="_blank"
                             aria-label="View Discord Profile"
                         >

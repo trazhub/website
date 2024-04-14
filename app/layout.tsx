@@ -10,10 +10,10 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://garvv.me/"),
-    title: "TRAZHUB",
+    metadataBase: new URL("https://traz.cloud"),
+    title: "TRAZVERSE",
     description:
-    "Student, currently studying at Arena Animation Nodida. Focused on immersive experiences, studying in Ghaziabad, India.",
+    "Student, currently studying at Sharda University Noida. Focused on immersive experiences, studying in Ghaziabad, India.",
     generator: "Next.js",
     applicationName: "GARV VERMA",
     keywords: [
@@ -25,17 +25,17 @@ export const metadata: Metadata = {
     ],
     colorScheme: "dark",
     openGraph: {
-        title: "TRAZHUB - Designer and Developer",
+        title: "TRAZHUB - Designer",
         description:
-      "Student, currently studying at Arena Animation Nodida. Focused on immersive experiences, studying in Ghaziabad, India.",
-        url: "https://www.Garvv.me/",
+      "Student, currently studying at Sharda University Noida. Focused on immersive experiences, studying in Ghaziabad, India.",
+        url: "https://www.traz.cloud/",
         siteName: "www.garvv.me",
         images: [
             {
                 url: "./public/metadata.jpg",
                 width: 1200,
                 height: 630,
-                alt: "TRAZHUB - Designer and Developer",
+                alt: "TRAZHUB - Designer",
             },
         ],
         locale: "en-US",
@@ -43,9 +43,9 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "TRAZHUB - Designer and Developer",
+        title: "TRAZHUB - Designer ",
         description:
-      "Student, currently studying at Arena Animation Nodida. Focused on immersive experiences, studying in Ghaziabad, India.",
+      "Student, currently studying at Sharda University Noida. Focused on immersive experiences, studying in Ghaziabad, India.",
         creator: "Garv",
         creatorId: "0000000000",
         images: ["./public/metadata.jpg"],

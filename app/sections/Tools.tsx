@@ -9,7 +9,17 @@ import {
     SiGithub,
     SiGooglechrome, SiGooglefonts,
     SiIntellijidea, SiJavascript, SiKotlin, SiLua,
-    SiNeovim, SiNextdotjs, SiReact, SiRust, SiTypescript, SiWebstorm, SiZig, SiHtml5, SiCss3,SiNodedotjs,SiExpress,SiFlask
+    SiNeovim, SiNextdotjs, SiReact, SiRust, SiTypescript, SiWebstorm, SiZig, SiHtml5, SiCss3,SiNodedotjs,SiExpress,SiFlask,
+    SiBlender,
+    SiCoveralls,
+    SiUnrealengine,
+    SiAdobelightroom,
+    SiAdobepremierepro,
+    SiAdobexd,
+    SiUbuntu,
+    SiWindows11,
+    SiPterodactyl,
+    SiKalilinux
 } from "react-icons/si";
 import AnimatedTools from "../animations/AnimatedTools.tsx";
 
@@ -35,30 +45,15 @@ const Tools = () => {
                         <div>
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.1} stepSize={0.1} iconSize={50}>
                                 <SiAdobephotoshop size={50}/>
-                                <SiAdobefonts size={50}/>
-                                <SiGooglefonts size={50}/>
+                                <SiAdobeaftereffects size={50}/>
+                                <SiAdobepremierepro size={50}/>
+                                <SiAdobeillustrator size={50}/>
+                                <SiAdobelightroom size={50}/>
+                                <SiBlender size={50}/>
                                 <SiFigma size={50}/>
-                            </AnimatedTools>
-                        </div>
-                    </div>
-                    <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-bold leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[40px] md:leading-relaxed lg:mb-16 lg:w-[50%]">
-                        <AnimatedBody delay={0.2} text="Frontend" />
-                        <div>
-                            <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.2} stepSize={0.1} iconSize={50}>
-                                <SiTypescript size={50}/>
-                                <SiJavascript size={50}/>
-                                <SiReact size={50}/>
-                                <SiNextdotjs size={50}/>
-                            </AnimatedTools>
-                        </div>
-                    </div>
-                    <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-bold leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[40px] md:leading-relaxed lg:mb-16 lg:w-[50%]">
-                        <AnimatedBody delay={0.3} text="Backend" />
-                        <div>
-                            <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.3} stepSize={0.1} iconSize={50}>
-                                <SiNodedotjs size={50}/>
-                                <SiExpress size={50}/>
-                                <SiFlask size={50}/>
+                                <SiCoveralls size={50}/>
+                                <SiUnrealengine size={50}/>
+                                <SiAdobexd size={50}/>
                             </AnimatedTools>
                         </div>
                     </div>
@@ -68,8 +63,10 @@ const Tools = () => {
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.4} stepSize={0.1} iconSize={50}>
                                 <SiGithub size={50}/>
                                 <SiGit size={50}/>
-                                <SiIntellijidea size={50}/>
-                                <SiWebstorm size={50}/>
+                                <SiUbuntu size={50}/>
+                                <SiWindows11 size={50}/>
+                                <SiPterodactyl size={50}/>
+                                <SiKalilinux size={50}/>
                             </AnimatedTools>
                         </div>
                     </div>

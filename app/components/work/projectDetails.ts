@@ -34,7 +34,7 @@ export const projects = [
         technologies: [SiTypescript, SiReact, SiNextdotjs, SiTailwindcss, SiFramer],
         techNames: ["TypeScript", "React", "Next.js", "Tailwind CSS", "Framer Motion"],
         techLinks: ["https://www.typescriptlang.org/", "https://reactjs.org/", "https://nextjs.org/", "https://tailwindcss.com/", "https://www.framer.com/motion/"],
-        github: "https://github.com/nerkoux/incolnx",
+        github: "https://github.com/trazhub",
         demo: "https://www.incolnx.com/",
         image: "/projects/incolnx.webp",
         available: true,
