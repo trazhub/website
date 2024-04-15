@@ -11,7 +11,7 @@ const syne = Syne({
 
 export const metadata: Metadata = {
     metadataBase: new URL("https://traz.cloud"),
-    title: "TRAZVERSE",
+    title: "TRAZHUB",
     description:
     "Student, currently studying at Sharda University Noida. Focused on immersive experiences, studying in Ghaziabad, India.",
     generator: "Next.js",

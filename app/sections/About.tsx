@@ -11,7 +11,7 @@ const About = () => {
         >
             <div className="mx-auto flex w-[90%] flex-col items-center justify-center lg:max-w-[1212.8px]">
                 <AnimatedTitle
-                    text={"Hola! I'am Trazhub "}
+                    text={"Heyya! It's Traz //-//"}
                     className={
                         "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#e4ded7] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
                     }
@@ -21,7 +21,7 @@ const About = () => {
 
                 <div className="mx-auto flex w-[100%] flex-col lg:max-w-[1200px] lg:flex-row lg:gap-20">
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
-                        <AnimatedBody text="HOWDY! My name is Garv verma, Trazhub is an alias. Go dive into Trazverse!" />
+                        <AnimatedBody text="Aahoy! I am Garv Verma and I go by Traz. All aboard Trazhub!" />
 
                         <AnimatedBody
                             delay={0.1}
@@ -30,7 +30,7 @@ const About = () => {
 
                         <AnimatedBody
                             delay={0.2}
-                            text="I'm always working on something new to keep me updated and to keep myself in practice. I'll be happy to take on any project you invision and add my personal touches along with it."
+                            text="I don't just follow guides blindly to code instead I like to deeply understand what each statement means, It is as if I am really talking to the computer. This helps me bring any generic code to life though my personal touches."
                         />
                     </div>
                 </div>

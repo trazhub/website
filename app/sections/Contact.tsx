@@ -45,7 +45,7 @@ const Contact = () => {
                             aria-label="Send me an email"
                             className="mt-1 w-[147px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[147px] md:mt-3 md:w-[170px] lg:mt-4"
                         >
-                            <AnimatedBody text={"Hit me up"} className={""} />
+                            <AnimatedBody text={"Hook me up"} className={""} />
                         </Link>
                     </div>
 
