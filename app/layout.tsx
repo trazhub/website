@@ -48,7 +48,7 @@ export const metadata: Metadata = {
       "Student, currently studying at Sharda University Noida. Focused on immersive experiences, studying in Ghaziabad, India.",
         creator: "Garv",
         creatorId: "0000000000",
-        images: ["./public/metadata.jpg"],
+        images: ["./public/okay1.png"],
     },
     robots: {
         index: true,
