@@ -79,7 +79,7 @@ const Contact = () => {
                             />
                         </Link>
                         <Link
-                            href="https://discord.gg/f95Vwyd4Hs"
+                            href="https://discord.com/users/835584835443228702"
                             target="_blank"
                             aria-label="View Discord Profile"
                         >
