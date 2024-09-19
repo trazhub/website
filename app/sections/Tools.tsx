@@ -50,7 +50,6 @@ const Tools = () => {
                                 <SiAdobeillustrator size={50}/>
                                 <SiAdobelightroom size={50}/>
                                 <SiBlender size={50}/>
-                                <SiFigma size={50}/>
                                 <SiCoveralls size={50}/>
                                 <SiUnrealengine size={50}/>
                                 <SiAdobexd size={50}/>

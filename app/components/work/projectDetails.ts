@@ -1,9 +1,12 @@
 import {
     SiCplusplus,
     SiCss3,
+    SiElectron,
     SiFramer,
-    SiGithub, SiHtml5, SiJavascript, SiNeovim,
+    SiGithub, SiHtml5, SiJavascript, SiMinecraft, SiNeovim,
     SiNextdotjs,
+    SiNgrok,
+    SiNodedotjs,
     SiReact,
     SiRust,
     SiTailwindcss,
@@ -39,7 +42,18 @@ export const projects = [
         image: "/projects/incolnx.webp",
         available: true,
     },
-    // Remove the script tag from the TypeScript code block
-    // <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="Trazhub" data-description="Support me on Buy me a Pizza" data-message="" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-
+    
+    {
+        id: 1,
+        name: "LocalX",
+        description:
+            "We Help You Host Small Minecraft Server Locally for Free And Help You Stay Protected Over the Internet.",
+        technologies: [SiElectron, SiMinecraft, SiNodedotjs, SiHtml5, SiNgrok],
+        techNames: ["Electron", "Minecraft", "Nodejs", "Html", "Ngrok (p2p)"],
+        techLinks: ["https://www.electronjs.org/", "https://www.minecraft.net/", "https://nodejs.org/", "https://en.wikipedia.org/wiki/HTML", "https://ngrok.com/"],
+        github: "https://github.com/LocalMiner/",
+        demo: "https://localx.cloud/",
+        image: "/projects/hmm.png",
+        available: true,
+    },
 ];

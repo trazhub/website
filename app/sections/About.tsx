@@ -25,12 +25,16 @@ const About = () => {
 
                         <AnimatedBody
                             delay={0.1}
-                            text="Passionate and skilled artist dedicated to creating stunning Vfx Arts, 3d renders and any kind of video/audio editing or creation. Whether you're a small business owner, an entrepreneur, or an individual seeking an online platform, I'm here to bring your vision to life"
+                            text="Dedicated gaming and animation student with
+a strong focus on game development and animation. With a solid
+foundation in creative design and interactive media, I seek to
+leverage my skills and passion to contribute to innovative projects
+and dynamic teams in the gaming and animation industry."
                         />
 
                         <AnimatedBody
                             delay={0.2}
-                            text="I don't just follow guides blindly to code instead I like to deeply understand what each statement means, It is as if I am really talking to the computer. This helps me bring any generic code to life though my personal touches."
+                            text="I am proficient in various programming languages and tools, including  JavaScript, and Unity. I am always eager to learn new technologies and improve my skills. " 
                         />
                     </div>
                 </div>
