@@ -10,7 +10,7 @@ const Logo: React.FC<LogoProps> = ({ width = 1920, height = 1080 }) => {
     return (
         <Image
             className={`w-${width} h-${height}`}
-            src="/okay3.png"
+            src="/me.png"
             alt="Logo"
             width={220}
             height={220}
