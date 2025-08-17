@@ -13,13 +13,14 @@ export const metadata: Metadata = {
     metadataBase: new URL("https://traz.cloud"),
     title: "TRAZHUB",
     description:
-    "Student, currently studying at Sharda University Noida. Focused on immersive experiences, studying in Ghaziabad, India.",
+    "Student, currently studying at Poornima University.Focused on immersive experiences,studying in Rajasthan,India.",
     generator: "Next.js",
-    applicationName: "GARV VERMA",
+    applicationName: "GARVVERMA",
     keywords: [
         "Garv verma",
         "Ghaziabad",
-        "Garv verma Ghaziabad",
+        "Garv verma portfolio",
+        "Garv verma developer",
         "Garv verma designer",
         "India",
     ],
@@ -27,9 +28,9 @@ export const metadata: Metadata = {
     openGraph: {
         title: "TRAZHUB - Designer",
         description:
-      "Student, currently studying at Sharda University Noida. Focused on immersive experiences, studying in Ghaziabad, India.",
-        url: "https://www.traz.cloud/",
-        siteName: "www.garvv.me",
+      "Student, currently studying at Poornima University.Focused on immersive experiences,studying in Rajasthan,India",
+        url: "https://opop.eu.org/",
+        siteName: "opop.eu.org",
         images: [
             {
                 url: "./public/metadata.jpg",
