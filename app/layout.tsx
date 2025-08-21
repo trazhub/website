@@ -34,7 +34,7 @@ export const metadata: Metadata = {
         siteName: "opop.eu.org",
         images: [
             {
-                url: "./public/metadata.jpg",
+                url: "/metadata.jpg",
                 width: 1200,
                 height: 630,
                 alt: "TRAZHUB - Designer",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
       "Student, currently studying at Sharda University Noida. Focused on immersive experiences, studying in Ghaziabad, India.",
         creator: "Garv",
         creatorId: "0000000000",
-        images: ["./public/okay1.png"],
+        images: ["/okay1.png"],
     },
     robots: {
         index: true,
